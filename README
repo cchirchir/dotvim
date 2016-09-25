@@ -32,3 +32,6 @@ git submodule update
 #initializing a git repo
 git remote add origin https://github.com/cchirchir/dotvim.git
 git push -u origin master
+
+#link to the tutorial
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
