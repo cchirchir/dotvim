@@ -8,7 +8,7 @@ execute pathogen#infect()
 "reload doc files everytime something new is installed
 call pathogen#helptags()
 
-set background=dark
+"set background=dark
 "colorscheme base16-default
 
 " enable syntax processing
@@ -102,8 +102,6 @@ set novisualbell
 set t_vb=
 set tm=500
 
-iabbr email charlieckips@gmail.com
-
 "enable inline spellcheck
 "set spell
 "set spelllang=en
@@ -152,7 +150,8 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
-let g:ycm_auto_trigger = 1 "Youcomplete me stuff
+"Youcomplete me stuff
+let g:ycm_auto_trigger = 1
 let g:ycm_min_num_identifier_candidate_chars = 0
 let g:ycm_complete_in_strings = 1
 let g:ycm_collect_identifiers_from_comments_and_strings = 1
