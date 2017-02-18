@@ -1,0 +1,15 @@
+ag.vim
+auto-pairs
+ctrlp.vim
+gundo.vim
+nerdtree
+syntastic
+vim-airline
+vim-airline-themes
+vim-colorschemes
+vim-fugitive
+vim-indent-guides
+vim-surround
+vim-trailing-whitespace
+youcompleteme
+Syntastic
