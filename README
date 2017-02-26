@@ -35,3 +35,10 @@ git push -u origin master
 
 #link to the tutorial
 http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+
+
+i3 stuff
+sudo openvpn --config ipvanish-US-Los-Angeles-lax-a23.ovpn
+xrandr --output HDMI-0 --auto --left-of DVI-1
+xset s off #turn off screensaver
+xset -dpms #turn off powersaving

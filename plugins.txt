@@ -12,4 +12,3 @@ vim-indent-guides
 vim-surround
 vim-trailing-whitespace
 youcompleteme
-Syntastic
