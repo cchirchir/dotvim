@@ -42,3 +42,5 @@ sudo openvpn --config ipvanish-US-Los-Angeles-lax-a23.ovpn
 xrandr --output HDMI-0 --auto --left-of DVI-1
 xset s off #turn off screensaver
 xset -dpms #turn off powersaving
+
+tlp -- power management tool.
